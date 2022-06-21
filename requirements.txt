@@ -8,7 +8,7 @@ idna==2.8
 kiwisolver==1.0.1
 matplotlib==3.0.2
 nltk==3.4.1
-numpy==1.16.1
+numpy==1.22.0
 pandas==0.24.1
 Pillow==5.4.1
 pyaes==1.6.1
